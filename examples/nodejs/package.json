@@ -1,0 +1,7 @@
+{
+  "name": "nodejstest",
+  "dependencies": {
+    "serialport": "^12.0.0",
+    "tx510js": "file:../.."
+  }
+}
